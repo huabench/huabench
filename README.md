@@ -27,12 +27,12 @@ Hi there 👋! I'm a passionate robotics engineer with a background in mechanica
 
 ## Skills
 
-- UAV and Robotic Arm：
+- UAV and Robotic Arm:
   ![PX4](https://img.shields.io/badge/PX4-Autopilot-blue)
   ![ROS2 MoveIt2](https://img.shields.io/badge/ROS2%20%2B%20MoveIt2-humble-purple?logo=ros&logoColor=white)
   ![DJI OSDK](https://img.shields.io/badge/DJI-OSDK-000000?style=flate&logo=dji&logoColor=white)
   
-- Software Architecture:  
+- Software Architecture:
   ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-GoF%2023-blue?style=flat)
   ![OOP](https://img.shields.io/badge/OOP-SOLID-green?style=flat)
   ![Modular Design](https://img.shields.io/badge/Modular-Architecture-orange?style=flat)
