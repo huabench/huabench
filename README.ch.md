@@ -33,7 +33,7 @@
   ![ROS2 MoveIt2](https://img.shields.io/badge/ROS2%20%2B%20MoveIt2-humble-purple?logo=ros&logoColor=white)
   ![DJI OSDK](https://img.shields.io/badge/DJI-OSDK-000000?style=flate&logo=dji&logoColor=white)
   
-- 软件架构:  
+- 软件架构:
   ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-GoF%2023-blue?style=flat)
   ![OOP](https://img.shields.io/badge/OOP-SOLID-green?style=flat)
   ![Modular Design](https://img.shields.io/badge/Modular-Architecture-orange?style=flat)
