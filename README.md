@@ -10,6 +10,17 @@ Hi there 👋! I'm a passionate robotics engineer with a background in mechanica
 - 💼 **UAV System Engineer** - *Westlake University (2021-Present)*
 - 💼 **Algorithm Engineer** - *Shuye Technology Co., Ltd. (2019-2021)*
 
+## Project Experience
+- Customized PX4 flight control system with self-designed controllers.
+- Designed modular communication and device abstraction frameworks.
+- Integrated UAV, robotic arm, and ROS2/MoveIt control systems.
+- Developed a vision-based UAV capture system on DJI M300, optimized with NVIDIA processors and YOLO/TensorRT.
+- Implemented multi-UAV cooperative capture with vision-based localization and scalable control architecture.
+- Deployed LLM-generated multi-robot code policies for scalable cooperative tasks.
+- Solved real-world stability, latency, and synchronization issues.
+- Optimized real-time perception and control performance.
+
+
 ## Skills
 
 - UAV and Robotic Arm：
