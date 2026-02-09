@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.ch.md">中文 🇨🇳</a> | <a href="README.md">English 🇺🇸</a>
+</p>
+
 Hi there 👋! I'm a passionate robotics engineer with a background in mechanical engineering and control dynamics. I enjoy crafting smart solutions, from algorithms to embedded systems development, for advancing the domain of UAV and robotic systems.
 
 ## Education
